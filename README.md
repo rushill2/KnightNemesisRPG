@@ -6,7 +6,7 @@ To play, run the UntitledRPG executable from the folder WindowsNoEditor.
 
 ## The Content folder containing Animations and Materials could not be uploaded on git, and the entire game can be found at: https://drive.google.com/file/d/1dP7-Wg0eDbdEtzOyQ1jKDy62SfcWUgZ9/view?usp=sharing
 
-#Controls
+# Controls
 - W, A, S, D: Movement
 - SpaceBar: Jump
 - C + SpaceBar: High jump
